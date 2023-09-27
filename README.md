@@ -1,18 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Alejandro 👋
 <!--
 **aa14av/aa14av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a Neuroscientist :brain: currently working as an NSF graduate research fellow at the University of Florida working with Dr. Adam Woods.
-I'm primarily interested in precision dosing non-invasive brain stimulation with artificial intelligence.
+:brain: I am a Neuroscientist, currently working as an NSF graduate research fellow at the University of Florida with Dr. Adam J. Woods.
+
+🤔 I'm primarily interested in precision dosing non-invasive brain stimulation with artificial intelligence.
 
 🔭 I'm currently working on my dissertation defense !
 
 🌱 I'm currently learning about graph neural networks for classifying fMRI data.
 
 👯 I’m looking to collaborate on deep learning projects for non-invasive brain stimulation and neuroimaging. If you're working on this kind of thing, let me know!
-
-💬 Ask me about 3D brain printing.
 
 [![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa14av&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
