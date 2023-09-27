@@ -3,7 +3,7 @@
 **aa14av/aa14av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-:brain: I am a Neuroscientist, currently working as an NSF graduate research fellow at the University of Florida with Dr. Adam J. Woods.
+:brain: I am a neuroscientist, currently working as an NSF graduate research fellow at the University of Florida with Dr. Adam J. Woods.
 
 🤔 I'm primarily interested in precision dosing non-invasive brain stimulation with artificial intelligence.
 
