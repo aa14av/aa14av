@@ -17,9 +17,9 @@ I'm primarily interested in precision dosing non-invasive brain stimulation with
 [![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa14av&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contacts
-- You can reach out on [aa14av@gmail.com](mailto:aa14av@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2727--6616-9745f5?style=flat-square.svg)](https://orcid.org/0000-0003-2727-6616)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=zrfhICYAAAAJ&hl=en&oi=ao)
+\nYou can reach out on [aa14av@gmail.com](mailto:aa14av@gmail.com)
 
 ## :newspaper: Publications
 
