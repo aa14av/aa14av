@@ -16,8 +16,10 @@
 [![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa14av&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 📫 Contacts
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2727--6616-9745f5?style=flat-square.svg)](https://orcid.org/0000-0003-2727-6616)
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange?style=flat-square.svg)](https://scholar.google.com/citations?user=zrfhICYAAAAJ&hl=en&oi=ao)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2727--6616-brightgreen?style=flat-square.svg)](https://orcid.org/0000-0003-2727-6616)
+[![Google Scholar](https://img.shields.io/badge/Google-Scholar-blue?style=flat-square.svg)](https://scholar.google.com/citations?user=zrfhICYAAAAJ&hl=en&oi=ao)
+[![Scopus ID](https://img.shields.io/badge/Scopus_Author_ID-57204573302-red)](https://www.scopus.com/authid/detail.uri?authorId=57204573302)
+[![Loop Profile](https://img.shields.io/badge/Loop_Profile-974285-orange)](https://loop.frontiersin.org/people/974285/overview): 
 
 You can reach out to me at: [aa14av@gmail.com](mailto:aa14av@gmail.com)
 
