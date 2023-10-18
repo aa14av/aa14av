@@ -13,7 +13,7 @@
 
 👯 I’m looking to collaborate on deep learning projects for non-invasive brain stimulation and neuroimaging. If you're working on this kind of thing, let me know!
 
-[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa14av&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
+[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa14av&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 📫 Contacts
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2727--6616-brightgreen?style=flat-square.svg)](https://orcid.org/0000-0003-2727-6616)
