@@ -3,7 +3,9 @@
 **aa14av/aa14av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-:brain: I am a neuroscientist with a PhD from the University of Florida. I am currently working as a naval aerospace experimental psychologist.
+:brain: I am a neuroscientist with a PhD from the University of Florida. 
+
+⚓ I am currently working as a naval aerospace experimental psychologist.
 
 🤔 I'm primarily interested in precision dosing non-invasive brain stimulation with artificial intelligence.
 
