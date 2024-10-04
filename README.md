@@ -27,7 +27,7 @@ You can reach out to me at: [aa14av@gmail.com](mailto:aa14av@gmail.com)
 
 ## :newspaper: Publications
 
-- Albizu, A., Paulo, S., Huang, Z., Waner, J., Indahlastari, I., Fang, R., Brunoni AR., & Woods, AJ. (Under Review). Artificial intelligence-optimized non-invasive brain stimulation and treatment response prediction for major depression.
+- Albizu, A., Paulo, S., Huang, Z., Waner, J., Indahlastari, I., Fang, R., Brunoni AR., & Woods, AJ. (2024). Artificial intelligence-optimized non-invasive brain stimulation and treatment response prediction for major depression. *Bioelectronic Medicine*
 
 - Albizu, A., Indahlastari, I., Huang, Z., Waner, J., Stolte, SE., Fang, R., & Woods, AJ. (2023). Machine-learning defined precision tDCS for improving cognitive function. *Brain Stimulation*
 
